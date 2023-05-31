@@ -24,6 +24,7 @@ function Sidebar() {
       {playlists?.items?.map((playlist) => (
         <SidebarOption title={playlist.name} />
       ))}
+      <SidebarOption title={discover_weekly?.name} />
     </div>
   );
 }
