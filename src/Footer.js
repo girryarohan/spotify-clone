@@ -16,12 +16,12 @@ function Footer() {
       <div className="footer__left">
         <img
           className="footer__albumLogo"
-          src="https://yt3.ggpht.com/ytc/AAUvwnjt8yKsE-M8X525qIW3ZWWVTlNkjN1em5of1Fvetg=s88-c-k-c0x00ffffff-no-rj"
+          src="https://i.scdn.co/image/ab67616d0000b2736a1e9d7201b74142e2d47b69"
           alt="Song Thumbnail"
         />
         <div className="footer__songInfo">
-          <h4>Walking Miracle Feat. Stylo G, Cocoa Sarai</h4>
-          <p>Divine, MC Altaf - Desi Hip Hop</p>
+          <h4>Give It To Me - Full Vocal Mix</h4>
+          <p>Matt Sassari - Give It To Me (Full Vocal Mix)</p>
         </div>
       </div>
       <div className="footer__center">

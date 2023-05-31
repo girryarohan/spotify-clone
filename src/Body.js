@@ -15,7 +15,7 @@ function Body({ spotify }) {
         <img src={discover_weekly?.images[0].url} alt="" />
         <div className="body__infoText">
           <strong>PLAYLIST</strong>
-          <h2>Hot Hits India Presents: Hottest Songs of 2021</h2>
+          <h2>Hot Hits India Presents: Hottest Songs of 2023</h2>
           <p>{discover_weekly?.description}</p>
         </div>
       </div>

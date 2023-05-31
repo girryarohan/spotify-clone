@@ -1,6 +1,6 @@
 export const authEndpoint = "https://accounts.spotify.com/authorize";
 
-const redirectUri = "https://spotify-mern.herokuapp.com/";
+const redirectUri = "http://localhost:3000/";
 
 const clientId = "46f4f6b122e444dd9469369787a690df";
 
